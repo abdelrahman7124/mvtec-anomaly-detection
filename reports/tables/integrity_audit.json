@@ -1,0 +1,20 @@
+{
+  "n_images": 5354,
+  "n_categories": 15,
+  "n_train": 3629,
+  "n_test": 1725,
+  "train_defect_types": [
+    "good"
+  ],
+  "train_contains_anomalies": false,
+  "n_test_good": 467,
+  "n_test_anomalous": 1258,
+  "n_masks_found": 1258,
+  "anomalous_test_missing_mask": 0,
+  "duplicate_paths": 0,
+  "n_distinct_resolutions": 6,
+  "pil_modes": [
+    "L",
+    "RGB"
+  ]
+}

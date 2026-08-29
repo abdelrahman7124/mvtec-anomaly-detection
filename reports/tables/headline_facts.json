@@ -1,0 +1,42 @@
+{
+  "n_images": 5354,
+  "n_categories": 15,
+  "n_textures": 5,
+  "n_objects": 10,
+  "n_train": 3629,
+  "n_test": 1725,
+  "n_test_normal": 467,
+  "n_test_anomalous": 1258,
+  "pct_test_anomalous": 72.9,
+  "n_train_anomalies": 0,
+  "n_defect_types": 73,
+  "median_images_per_defect_type": 17,
+  "min_images_per_defect_type": 8,
+  "n_masks": 1258,
+  "median_defect_area_pct": 1.54,
+  "pct_defects_under_1pct": 39.7,
+  "pct_defects_under_5pct": 80.7,
+  "smallest_defect_pct": 0.037,
+  "largest_defect_pct": 49.3,
+  "pct_single_region_masks": 75.8,
+  "max_defect_regions": 17,
+  "n_resolutions": 6,
+  "resolutions": [
+    "1000x1000",
+    "1024x1024",
+    "700x700",
+    "800x800",
+    "840x840",
+    "900x900"
+  ],
+  "greyscale_categories": [
+    "grid",
+    "screw",
+    "zipper"
+  ],
+  "n_greyscale_images": 1213,
+  "n_categories_within_5_levels": 12,
+  "max_intensity_drift": 13.8,
+  "smallest_category": "toothbrush",
+  "smallest_category_train": 60
+}
